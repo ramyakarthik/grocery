@@ -1,0 +1,4 @@
+https://create-react-app.dev/docs/analyzing-the-bundle-size/
+
+react quote machine
+https://codepen.io/Basit600/pen/qvwjbg?editors=0011
