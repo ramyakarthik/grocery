@@ -1,0 +1,21 @@
+https://hackr.io/blog/angular-interview-questions
+
+Angular makes use of observables as an interface to handle a variety of common asynchronous operations. For example:
+
+You can define custom events that send observable output data from a child to a parent component.
+The HTTP module uses observables to handle AJAX requests and responses.
+The Router and Forms modules use observables to listen for and respond to user-input events.
+
+https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course
+
+Experience fetching and consuming API data
+
+
+https://www.freecodecamp.org/news/write-less-do-more-with-javascript-es6-5fd4a8e50ee2/
+
+http://es6-features.org/#BlockScopedVariables
+
+https://www.tutorialspoint.com/http/http_status_codes.htm
+https://reqbin.com/Article/HttpPut
+
+https://www.restapitutorial.com/lessons/httpmethods.html
